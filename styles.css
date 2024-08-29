@@ -139,8 +139,8 @@ body {
 }
 
 .image-logo img {
-    width: 100%;
-    height: auto;
+    width: 90px;
+    height: 90px;
     transition: transform 0.3s ease;
 }
 
