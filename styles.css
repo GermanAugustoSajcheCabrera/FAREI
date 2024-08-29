@@ -138,6 +138,12 @@ body {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
 }
 
+.image-logo img {
+    width: 100%;
+    height: 50px;
+    transition: transform 0.3s ease;
+}
+
 .image-box img {
     width: 100%;
     height: auto;
